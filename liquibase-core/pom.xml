@@ -7,6 +7,7 @@
         <artifactId>liquibase</artifactId>
         <version>0-SNAPSHOT</version>
     </parent>
+<!--    test-->
     <artifactId>liquibase-core</artifactId>
     <packaging>jar</packaging>
 
